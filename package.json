@@ -1,6 +1,6 @@
 {
   "name": "neighbourhoodie-test-package",
-  "version": "64.0.0",
+  "version": "65.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "git+https://github.com/neighbourhoodie/neighbourhoodie-test-package.git"
   },
   "author": "",
-  "license": { "prefered": "MIT" },
+  "license": {
+    "prefered": "MIT"
+  },
   "bugs": {
     "url": "https://github.com/neighbourhoodie/neighbourhoodie-test-package/issues"
   },
