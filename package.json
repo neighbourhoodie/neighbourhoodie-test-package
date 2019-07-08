@@ -11,9 +11,7 @@
     "url": "git+https://github.com/neighbourhoodie/neighbourhoodie-test-package.git"
   },
   "author": "",
-  "license": {
-    "prefered": "MIT"
-  },
+  "license": ["MIT", "MIT2"],
   "bugs": {
     "url": "https://github.com/neighbourhoodie/neighbourhoodie-test-package/issues"
   },
